@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kroosvi
+- 👋 Hi, I’m @Kroos
 - 👀 I’m interested in Java,C,pythin
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on OS things
 - 📫 How to reach me kroosvi@gamil.com!
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kroos
-- 👀 I’m interested in Java,C,python
+- 👀 I’m interested in Rust! Java,C,python
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me kroosvi@gamil.com!
 

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust! Java,C,python
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me kroosvi@gamil.com!
--  Passionate Arch Linux user!
+-  Passionate Arch Linux user! config -> kroosvi/dotFile
 
 
 <!---

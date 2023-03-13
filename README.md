@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kroos
 - 👀 I’m interested in Rust! Java,C,python, Quntume computing(wanted to learn)
-- 🌱 I’m currently learning Rust
-- 🏫 Currently enrolled in Temple University Senior Computer Science Major 
+- 🌱 I’m currently learning Rust 
+- 🏫 Temple University Senior Computer Science Major 
 -   Passionate Arch Linux user! config -> kroosvi/dotFile
 - 📫 How to reach me kroosvi@gamil.com!
 

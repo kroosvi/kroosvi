@@ -5,6 +5,8 @@
 -   Passionate Arch Linux user! config -> kroosvi/dotFile
 - 📫 How to reach me kroosvi@gamil.com!
 
+- **"Code is there for humans, not computers, to understand."**
+
 
 <!---
 kroosvi/kroosvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
